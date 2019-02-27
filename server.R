@@ -330,6 +330,6 @@ shinyServer(function(input, output, session) {
   
     
 
-#PART 3: DEPLOYED WEB MAP TO URL 
+#PART 3: DEPLOYED WEB MAP TO URL AT https://ischwarz.shinyapps.io/web_map/
   
 })
